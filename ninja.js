@@ -1,3 +1,4 @@
+// this contains both ninja and super_ninja assigments!
 class Ninja {
     constructor(name, health = 100, speed = 3, strength = 3) {
         this.name = name
